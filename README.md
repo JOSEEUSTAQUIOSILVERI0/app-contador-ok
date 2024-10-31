@@ -26,6 +26,7 @@ kotlin
 
 Clone o repositório:
 
+https://github.com/JOSEEUSTAQUIOSILVERI0/app-contador-ok.git
 
 
 Abra o projeto no Android Studio.
